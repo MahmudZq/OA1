@@ -57,7 +57,7 @@ body{
 .card{
     display: flex;
     width: 400px;
-    height: 575px;
+    height: 600px;
     background-color: #405D72;
     /* border: 2px solid rgb(51, 51, 51); */
     border: 1px solid rgba(0, 0, 0, 0.495);
@@ -74,7 +74,7 @@ body{
 }
 .card-down{
     background-color: #ffffff;
-    height: 175px;
+    height: 200px;
     border-radius: 10px;
     border-top-left-radius: 0px;
      border-top-right-radius: 0px;
@@ -153,4 +153,15 @@ img{
 }
 .contact a:hover{
    color: #fbf251;
+}
+.contact-details{
+  display: block;
+  justify-content: space-evenly;
+}
+.contact-details a{
+   color: #000000;
+   text-decoration: none;
+}
+.contact-details a:hover{
+   color: #ff0000;
 }
