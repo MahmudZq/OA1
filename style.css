@@ -57,7 +57,7 @@ body{
 .card{
     display: flex;
     width: 400px;
-    height: 600px;
+    height: 615px;
     background-color: #405D72;
     /* border: 2px solid rgb(51, 51, 51); */
     border: 1px solid rgba(0, 0, 0, 0.495);
@@ -74,7 +74,7 @@ body{
 }
 .card-down{
     background-color: #ffffff;
-    height: 200px;
+    height: 215px;
     border-radius: 10px;
     border-top-left-radius: 0px;
      border-top-right-radius: 0px;
